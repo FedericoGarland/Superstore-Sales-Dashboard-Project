@@ -24,7 +24,7 @@ Key components include:
 CSV Dataset → Power Query → Star Schema Semantic Model → DAX Measures → Power BI Dashboard
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ---
 
